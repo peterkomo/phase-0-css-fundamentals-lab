@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+nav  {
+  text-align: center;
+  
+}
+nav a{
+  background-color: grey;
+  padding:10 px
+}
+figure{
+  text-align: center;
+  padding: 16px;
+}
+ #featured-property p {
+
+text-align:center;
+
+}
+div{
+  float: left;
+  text-align: center;
+  
+  background-color: grey;
+  width: 25%;
+
+}
+footer{
+  background-color: grey;
+  padding: 125px;
+}
+
+
+
+
+
+
